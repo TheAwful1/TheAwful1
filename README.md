@@ -1,6 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning programming in the institute and by my own, i hope to be a great programmer some day soon.
-This is a page using Github pages
+
 
 <!--
 **TheAwful1/TheAwful1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
